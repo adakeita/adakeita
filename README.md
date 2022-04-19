@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adakeita
+- 👀 I’m interested in web and app devolopment
+- 🌱 I’m currently learning advanced JS and basic React
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me: mathildebrakstad@gmail.com 
