@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @adakeita
-- 👀 I’m interested in web and app devolopment
-- 🌱 I’m currently learning advanced JS and basic React
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me: mathildebrakstad@gmail.com 
+Hi, I’m Ada Keita :wave:
+
+
+I am a <>developer</> living in Oslo, Norway. My interest in development got sparked in the fall of 2021, and I spent the next year learning everything I could on a laptop in my apartment. I started school to learn even more about front-end development in the fall of 2022, and have spent my free time still learning back-end and cyber security. 
+
+Currently working with
+
+-css3
+-html5
+-vanilla js
+-react (still fresh)
+-pyhton(still fresh)
+-sql
+
+
+I would love to connect with more developers, feel free to contact me on hello@adakeita.dev!
