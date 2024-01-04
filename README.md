@@ -10,7 +10,7 @@ Currently working with
 -html5
 -vanilla js
 -React
--pyhton(still fresh)
+-python(still fresh)
 -sql
 
 
